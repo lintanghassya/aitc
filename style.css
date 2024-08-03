@@ -1,0 +1,87 @@
+nav {
+  background-color: #03045e;
+}
+
+.navbar-nav {
+  margin-left: 600px;
+}
+
+.nav-link {
+  color: #fbf8cc;
+  margin-left: 15px;
+}
+
+.nav-link:hover {
+  color: #f5ee84;
+}
+
+.btn-link {
+  background-color: #f5ee84;
+  color: #03045e;
+  font-weight: bold;
+  border-radius: 15px;
+}
+
+#about {
+  background-color: #fbf8cc;
+  padding: 60px;
+  color: #03045e;
+}
+
+#skills {
+  background-color: #f5ee84;
+  padding: 50px;
+}
+
+.place {
+  color: #03045e;
+  font-weight: bold;
+  border-radius: 15px;
+}
+
+.myimg {
+  height: 150px;
+  width: 150px;
+  border-radius: 40px;
+}
+
+.btn {
+  background-color: #f5ee84;
+  color: #03045e;
+  border-radius: 40px;
+  padding: 10px;
+}
+
+.btn:hover {
+  background-color: #03045e;
+  color: #f5ee84;
+}
+
+.card {
+  background-color: #03045e;
+  color: #fbf8cc;
+}
+
+.card-img-top5 {
+  width: 280px;
+  height: 200px;
+}
+
+.list-group-item {
+  background-color: #fbf8cc;
+}
+
+#exsperience {
+  background-color: #fbf8cc;
+  padding: 50px;
+}
+
+#contact {
+  background-color: #fbf8cc;
+  padding: 40px;
+  color: #03045e;
+}
+
+.row.justify-center {
+  padding-top: 50px;
+}
